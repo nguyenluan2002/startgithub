@@ -1,4 +1,4 @@
 <?php
-	echo 'Hello World!<br />';
+	echo 'Hello World!';
 	echo 'This is test file.';
 ?>
